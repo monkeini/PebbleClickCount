@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "robin.harrison@gmail.com",
+    "longName": "ClickCount",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "ClickCount",
+    "uuid": "299d9715-ea9f-4553-8781-f75ea9c22bfd",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
